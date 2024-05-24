@@ -5,6 +5,7 @@
 
 import csv
 import sys
+X = sys.argv[1]
 
 def read_csv_and_compute_means(file_path):
     try:
